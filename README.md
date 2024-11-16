@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Luis García Quinayás</h1>
 <h3 align="center">Apasionado por las pruebas de software tanto manuales como automatizadas</h3>
 
-- 🌱 I’m currently learning **Selenium, Pytest**
+- 🌱 I’m currently learning **Selenium, Pytest, Automated Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamjosel/](https://github.com/iamjosel/)
 
